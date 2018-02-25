@@ -13,7 +13,7 @@ function Nav() {
         </NavLink>
       </li>
       <li>
-        <NavLink exact activeClassName="active" to="/Products">
+        <NavLink exact activeClassName="active" to="/products">
           Products
         </NavLink>
       </li>

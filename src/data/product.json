@@ -1,0 +1,9 @@
+[
+	{
+		"id": 1,
+		"product_name": "Tempsoft",
+		"product_image": "http://dummyimage.com/159x109.jpg/cc0000/ffffff",
+		"description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+		"price": "$78.99"
+	}
+]

@@ -1,6 +1,7 @@
 import React from "react";
 import Nav from "./Nav";
 import Home from "./Home";
+import Products from "./Products";
 import Spinner from "./Spinner";
 import { BrowserRouter as Router, Link, Route, Switch } from "react-router-dom";
 
@@ -42,6 +43,7 @@ class App extends React.Component {
 					<Nav />
 					<Switch>
 						<Route exact path="/" component={Home} />
+						<Route exact path="/products" component={Products} />
 						<Route render={() => <p>Not Found</p>} />
 					</Switch>
 				</div>
